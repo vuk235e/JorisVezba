@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+form {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.podforma {
+  margin: 0rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.red {
+  padding-top: 0.7rem;
+}
+
+button {
+  height: 1.5rem;
+  width: 80%;
+  background-color: aqua;
+}
